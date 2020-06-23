@@ -23,7 +23,7 @@
         <activity
             android:name=".PokemonListActivity"
             android:parentActivityName=".PokemonListActivity"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="landscape" />
         <activity
             android:name=".PokemonRecyclerActivity"
             android:parentActivityName=".PokemonRecyclerActivity"
